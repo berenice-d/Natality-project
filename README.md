@@ -14,10 +14,10 @@ The project comprises all steps of Data Science work broken down as follows:
 
 ## Links
 
-* [Data Analysis - Key findings](https://public.tableau.com/profile/berenice7204#!/) - Condensed version of the EDA
+* [Data Analysis - Key findings](https://github.com/bd3thier/Natality-project/blob/master/Key%20findings%20final.pdf) - Condensed version of the EDA
 * [Tableau presentations](https://public.tableau.com/profile/berenice7204#!/) - Overview and visual EDA
 * [Statistical Data analysis - jupyter notebook](https://github.com/bd3thier/Natality-project/blob/master/Statistical%20Data%20Analysis.ipynb) - EDA
-* [Milestone report]() - Report on Data Wrangling and EDA **coming soon**
+* [Milestone report](https://github.com/bd3thier/Natality-project/blob/master/Milestone%20report.pdf) - Report on Data Wrangling and EDA
 * [Machine learning - jupyter notebook] - **coming soon**
 
 
