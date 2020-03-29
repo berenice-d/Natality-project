@@ -24,8 +24,11 @@ The project comprises all steps of Data Science work broken down as follows:
   *  [Classification part 1 - jupyter notebook]() - Logistic regression, kNN, SVC, Random Forest **coming soon**
   *  [Classification part 2 - jupyter notebook]() - Catboost **coming soon**
 
-## Authors
+## Author
 
-* **Berenice Dethier** - *Initial work* 
+* [Berenice Dethier](https://www.linkedin.com/in/berenice-dethier-phd-9b167491/)
+
+## Acknowledgements
+
 * **Dhiraj Khanna** - *Springboard mentor* 
 
