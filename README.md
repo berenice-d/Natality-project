@@ -21,7 +21,7 @@ The project comprises all steps of Data Science work broken down as follows:
 * **Machine learning - jupyter notebook**
   *  [Regression part 1 - jupyter notebook](https://github.com/bd3thier/Natality-project/blob/master/Natality%20ML%20Regression%20part%201.ipynb) - Linear regression, kNN, SVR, Random Forest, Adaboost, Gradient boosting
   *  [Regression part 2 - jupyter notebook]() - Catboost **coming soon**
-  *  [Classification part 1 - jupyter notebook]() - Logistic regression, kNN, SVC, Random Forest **coming soon**
+  *  [Classification part 1 - jupyter notebook](https://github.com/bd3thier/Natality-project/blob/master/Natality%20ML%20Classification%20part%201.ipynb) - Logistic regression, kNN, SVC, Random Forest, Naive Bayes 
   *  [Classification part 2 - jupyter notebook]() - Catboost **coming soon**
 
 ## Author
