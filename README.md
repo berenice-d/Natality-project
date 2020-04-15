@@ -20,7 +20,7 @@ The project comprises all steps of Data Science work broken down as follows:
 * [Milestone report](https://github.com/bd3thier/Natality-project/blob/master/Milestone%20report.pdf) - Report on Data Wrangling and EDA
 * **Machine learning - jupyter notebook**
   *  [Regression part 1 - jupyter notebook](https://github.com/bd3thier/Natality-project/blob/master/Natality%20ML%20Regression%20part%201.ipynb) - Linear regression, kNN, SVR, Random Forest, Adaboost, Gradient boosting
-  *  [Regression part 2 - jupyter notebook]() - Catboost **coming soon**
+  *  [Regression part 2 - jupyter notebook](https://github.com/bd3thier/Natality-project/blob/master/Natality%20ML%20Regression%20part%202.ipynb) - Catboost 
   *  [Classification part 1 - jupyter notebook](https://github.com/bd3thier/Natality-project/blob/master/Natality%20ML%20Classification%20part%201.ipynb) - Logistic regression, kNN, SVC, Random Forest, Naive Bayes 
   *  [Classification part 2 - jupyter notebook](https://github.com/bd3thier/Natality-project/blob/master/Natality%20ML%20Classification%20part%202.ipynb) - Catboost 
 
