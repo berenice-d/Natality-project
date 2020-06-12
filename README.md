@@ -26,6 +26,7 @@ The project comprises all steps of Data Science work broken down as follows:
 * [Data Analysis - Key findings](https://github.com/bd3thier/Natality-project/blob/master/Key%20findings%20final.pdf) - Condensed version of the EDA
 * [Tableau presentations](https://public.tableau.com/profile/berenice7204#!/) - Overview and visual EDA
 * [Statistical Data analysis - jupyter notebook](https://github.com/bd3thier/Natality-project/blob/master/Statistical%20Data%20Analysis.ipynb) - EDA
+* [Final report](https://github.com/bd3thier/Natality-project/blob/master/Natality%20-%20final%20report.pdf) - It's long, but there is so much to say!
 * [Milestone report](https://github.com/bd3thier/Natality-project/blob/master/Milestone%20report.pdf) - Report on Data Wrangling and EDA
 * **Machine learning - jupyter notebooks**
   *  [Regression part 1 - jupyter notebook](https://github.com/bd3thier/Natality-project/blob/master/Natality%20ML%20Regression%20part%201.ipynb) - Linear regression, kNN, SVR, Random Forest, Adaboost, Gradient boosting
