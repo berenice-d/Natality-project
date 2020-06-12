@@ -12,7 +12,7 @@ We put together a few resources for a general audience eager to learn what we fo
 * [A dashboard to explore the data set](https://bereniced.shinyapps.io/natalityapp2/) 
 * [A Medium article summarizing our findings]() - That one is still in progress
 * [A set of plots in Tableau (they are also interactive!)](https://public.tableau.com/profile/berenice7204#!/) 
-* [A short report of data analysis](https://github.com/bd3thier/Natality-project/blob/master/Key%20findings%20final.pdf) 
+* [A short report of the data analysis](https://github.com/bd3thier/Natality-project/blob/master/Key%20findings%20final.pdf) 
 
 ## Overview
 
