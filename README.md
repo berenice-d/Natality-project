@@ -2,14 +2,23 @@ This project is in progress - please check back later for more!
 
 # Natality-project
 
-This project describes the steps taken in a project aiming at predicting the week of birth with data. We used the 2018 CDC Natablity file. The work was performed in the context of my Springboard capstone projet.
+**A small data science project reveals how public health issues and socioeconomic difficulties go hand in hand...**
+We tried to predict dates of birth with data. Little did we know what was coming at us!
+This repository contains material (reports, code) produced to predict the week of birth with data. We used the 2018 CDC Natablity file. The work was performed in the context of my Springboard capstone projet.
+
+## The fun stuff
+
+We put together a few resources for a general audience eager to learn what we found. If you are intrested in technical aspects of the work, keep scrolling down!  
+* [A dashboard to explore the data set](https://bereniced.shinyapps.io/natalityapp2/) 
+* [A Medium article summarizing our findings]() - That one is still in progress
+* [A set of plots in Tableau (they are also interactive!)](https://public.tableau.com/profile/berenice7204#!/) 
 
 ## Overview
 
 The project comprises all steps of Data Science work broken down as follows:
 * Data collection and wangling: done with R (RStudio)
 * Exploratory Data Analysis: using Tableau Public for visual EDA and Python (jupyter notebook) for statistical data analysis
-* Machine learning: using Python - mostly scikit-learn in jupyter notebook
+* Machine learning: using Python - mostly scikit-learn, CatBoost and Keras in jupyter notebook
 * Reporting: using LaTeX
 
 ## Links
