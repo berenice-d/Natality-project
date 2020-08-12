@@ -4,7 +4,7 @@ This project is in progress - please check back later for more!
 
 **A small data science project reveals how public health issues and socioeconomic difficulties go hand in hand...**
 We tried to predict dates of birth with data. Little did we know what was coming at us!
-This repository contains material (reports, code) produced to predict the week of birth with data. We used the 2018 CDC Natablity file. The work was performed in the context of my Springboard capstone projet.
+This repository contains material (reports, code) produced to predict the week of birth with data. We used the 2018 CDC Natality file. The work was performed in the context of my Springboard capstone project.
 
 ## The fun stuff
 
